@@ -1,0 +1,10 @@
+.country{
+    border: 2px solid peachpuff;
+    border-radius: 13px;
+    padding: 10px;
+    box-shadow: 4px 4px 4px 4px black;
+    margin-top: 10px;
+}
+.country:hover{
+    background-color: bisque;
+}
